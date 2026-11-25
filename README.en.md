@@ -10,9 +10,9 @@ I did this often enough that finding the recording, trimming the dead time, and 
 
 ## See it in action
 
-![The Framelet editor. The timeline handles are dragged to trim a clip, then the Copy button generates a GIF.](docs/media/framelet-workflow.gif)
+![Press F6 to select a region with the mouse, then Enter to start the countdown and record. Press F6 again to open the editor, trim the clip, and copy it as a GIF.](docs/media/framelet-workflow.gif)
 
-*This clip shows a change in the settings window. Drag the red handles to keep the relevant seconds, then click **复制** (Copy) to generate a GIF.*
+*Press `F6` and drag to select a region. Press `Enter` to start the countdown. After recording, press `F6` again to open the editor. Drag the timeline handles to trim the ends, then click **复制** (Copy) to generate a GIF.*
 
 ## Where it fits in a workday
 
