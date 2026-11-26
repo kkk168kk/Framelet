@@ -1,4 +1,4 @@
-# Framelet
+# Framelet 便携录屏工具
 
 [English](README.en.md) · [快速开始](#快速开始) · [安装与运行](#安装与运行)
 
